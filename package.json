@@ -20,7 +20,7 @@
     "@types/jasminewd2": "^2.0.5",
     "chai-jasmine": "^1.0.7",
     "chai-smoothie": "^0.3.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-angular-protractor": "^1.2.0",
     "gulp-typescript": "^3.2.4",
     "jasmine-data-provider": "^2.2.0",
